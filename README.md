@@ -12,3 +12,9 @@
 
 ## Traffic Light Schematic
 [![Traffic Light Schematic](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](Traffic%20light%20schematic.pdf)
+
+
+## Finite State Diagram
+
+![Finite State Diagram](finite%20state%20diagram.png)
+
