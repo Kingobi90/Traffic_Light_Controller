@@ -6,9 +6,9 @@
 # Project Documentation
 
 ## Elaborate Design
-[![View](https://img.shields.io/badge/View-blue?style=for-the-badge)](elaboratedesign.pdf)
+[Elaborate Design](elaboratedesign.pdf)  
+<embed src="elaboratedesign.pdf" width="100%" height="600px" />
 
 ## Traffic Light Schematic
-[![View](https://img.shields.io/badge/View-blue?style=for-the-badge)](Traffic%20light%20schematic.pdf)
-
-
+[Traffic Light Schematic](Traffic%20light%20schematic.pdf)  
+<embed src="Traffic%20light%20schematic.pdf" width="100%" height="600px" />
