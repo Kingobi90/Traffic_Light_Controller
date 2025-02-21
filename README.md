@@ -1,4 +1,4 @@
-#Sensor-Driven Traffic Light Controller (VHDL)
+# Sensor-Driven Traffic Light Controller (VHDL)
 
 - Designed and Implemented a sensor-driven traffic light controller using VHDL to reduce congestion and optimize real-time traffic flow.  
 - Dynamically adjusts green light durations based on actual road usage detected by sensors.  
