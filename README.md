@@ -5,10 +5,10 @@
 - Minimizes unnecessary delays at rarely used junctions with sensor-based activation.
 # Project Documentation
 
+# Project Documentation
+
 ## Elaborate Design
-[Elaborate Design](elaboratedesign.pdf)  
-<embed src="elaboratedesign.pdf" width="100%" height="600px" />
+[![Elaborate Design](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](elaboratedesign.pdf)
 
 ## Traffic Light Schematic
-[Traffic Light Schematic](Traffic%20light%20schematic.pdf)  
-<embed src="Traffic%20light%20schematic.pdf" width="100%" height="600px" />
+[![Traffic Light Schematic](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](Traffic%20light%20schematic.pdf)
