@@ -10,10 +10,10 @@
 # Project Documentation
 
 ## Elaborate Design
-[![Elaborate Design](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](elaboratedesign.pdf)
+[![Elaborate Design](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](elaboratedesign.png)
 
 ## Traffic Light Schematic
-[![Traffic Light Schematic](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](Traffic%20light%20schematic.pdf)
+[![Traffic Light Schematic](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](Traffic%20light%20schematic.png)
 
 
 ## Finite State Diagram
