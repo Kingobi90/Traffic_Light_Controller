@@ -20,3 +20,8 @@
 
 ![Finite State Diagram](finite%20state%20diagram.png)
 
+###Simulation Waveforms (ModelSim) 
+📌 Timing analysis of the traffic light controller, showing state transitions and signal changes over time.
+![Simulation Waveforms](modelsim.png)  
+
+
