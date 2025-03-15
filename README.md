@@ -1,27 +1,33 @@
-# Sensor-Driven Traffic Light Controller (VHDL)
+Here’s your **updated README** with the image format correctly applied for the diagrams:
 
-- Designed and Implemented a sensor-driven traffic light controller using VHDL to reduce congestion and optimize real-time traffic flow.  
-- Dynamically adjusts green light durations based on actual road usage detected by sensors.  
-- Prioritizes high-traffic roads to keep vehicles moving efficiently.  
-- Allows emergency vehicles to bypass congestion, improving response times.  
-- Minimizes unnecessary delays at rarely used junctions with sensor-based activation.
+---
 
+# 🚦 Sensor-Driven Traffic Light Controller (VHDL)
 
-# Project Documentation
+- Designed and implemented a **sensor-driven traffic light controller** using **VHDL**, optimizing real-time traffic flow and reducing congestion.  
+- **Adaptive timing:** Dynamically adjusts green light durations based on sensor-detected road usage.  
+- **Priority-based control:** Allocates longer green phases to high-traffic roads for smoother traffic movement.  
+- **Emergency vehicle override:** Enables immediate green signals for emergency vehicles, enhancing response times.  
+- **Smart activation:** Minimizes delays at low-traffic junctions by switching lights **only when necessary**.  
 
-## Elaborate Design
-[![Elaborate Design](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](elaboratedesign.png)
+---
 
-## Traffic Light Schematic
-[![Traffic Light Schematic](https://img.shields.io/badge/View-PDF-blue?style=for-the-badge)](Traffic%20light%20schematic.png)
+## 📄 **Project Documentation**  
 
+### **🔹 Elaborate Design**  
+📌 **System architecture and design breakdown**  
+![Elaborate Design](elaboratedesign.png)  
 
-## Finite State Diagram
+### **🔹 Traffic Light Schematic**  
+📌 **Hardware-level representation of traffic signal connections**  
+![Traffic Light Schematic](Traffic%20light%20schematic.png)  
 
-![Finite State Diagram](finite%20state%20diagram.png)
+### **🔹 Finite State Diagram**  
+📌 **State transition visualization for the traffic light controller**  
+![Finite State Diagram](finite%20state%20diagram.png)  
 
-###Simulation Waveforms (ModelSim) 
-📌 Timing analysis of the traffic light controller, showing state transitions and signal changes over time.
+### **🔹 Simulation Waveforms (ModelSim)**  
+📌 **Timing analysis of the traffic light controller, showing state transitions and signal changes over time**  
 ![Simulation Waveforms](modelsim.png)  
 
-
+---
