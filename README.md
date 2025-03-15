@@ -28,4 +28,4 @@
 ###  Simulation Waveforms (ModelSim) 
 📌 **Timing analysis of the traffic light controller, showing state transitions and signal changes over time**  
 ![Simulation Waveforms](modelsim.png)  
-This version keeps everything clean while ensuring **all PDFs are properly linked**. 🚀
+
